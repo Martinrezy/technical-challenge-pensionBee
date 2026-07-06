@@ -2,7 +2,7 @@
 
 A full-stack JavaScript MVP that serves marketing pages from Markdown files in a `content` folder. Each folder maps to a URL path and is rendered with `template.html` plus a React-powered site header.
 
-**Live deployment:** _Add your Render/Railway URL here after deploying._
+**Live deployment:** [https://acme-cms.onrender.com](https://acme-cms.onrender.com)
 
 ## Overview
 
